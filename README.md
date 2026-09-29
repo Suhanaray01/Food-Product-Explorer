@@ -1,5 +1,7 @@
 # Food Product Explorer
 
+A responsive React and TypeScript grocery explorer with INR pricing, searchable products, category filters, and detailed product pages.
+
 ## 1. Project overview
 
 Food Product Explorer is a responsive single-page catalog for browsing grocery products. Visitors can search by title, filter by category, sort results, and open a detailed product page. API products come from DummyJSON, with a small local catalog supplement for requested grocery items that the API does not provide. There is no backend.
